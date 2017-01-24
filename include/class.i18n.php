@@ -364,7 +364,8 @@ class Internationalization {
 
         return $lang = self::isLanguageInstalled($best_match_langcode)
             ? $best_match_langcode
-            : $cfg->getPrimaryLanguage();
+            : $cfg->getPrimaryLanguage()
+            ;
     }
 
     static function getCurrentLanguage($user=false) {
