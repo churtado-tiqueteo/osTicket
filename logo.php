@@ -15,7 +15,7 @@
 
     vim: expandtab sw=4 ts=4 sts=4:
 **********************************************************************/
-
+//clorian
 // Don't update the session for inline image fetches
 if (!function_exists('noop')) { function noop() {} }
 session_set_save_handler('noop','noop','noop','noop','noop','noop');
