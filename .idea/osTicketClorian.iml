@@ -14,5 +14,15 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/include/i18n/es_ES.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/include/i18n/es_ES.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
