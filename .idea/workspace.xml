@@ -2,8 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd4288-6f9d-4174-90ba-c929fe2249d4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/osTicketClorian.iml" afterPath="$PROJECT_DIR$/.idea/osTicketClorian.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/cli/cleanup-codebase.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/cli/manage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/css/wizard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/api.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/api/tasks.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/api/tickets.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/forms.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/i18n.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/orm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/package.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/signals.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/doc/streams.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/cog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/database.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/grey_btn_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/incomplete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/system.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/tip_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/images/yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/class.installer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/file-missing.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/file-perm.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/file-unclean.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/footer.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/header.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/install-done.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/install-prereq.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/install.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/ost-sampleconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/streams/core/install-mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/inc/subscribe.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/js/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/js/tips.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/scripts/api_ticket_create.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/scripts/automail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/scripts/automail.pl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/scripts/rcron.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/setup.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/run-tests.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/class.php_analyze.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/class.test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/mockdb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/stubs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.crypto.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.email-bounces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.extra-whitespace.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.header_functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.jslint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.mail-parse.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.shortopentags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.signals.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.syntax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.undefinedmethods.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.unitialized.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/test/tests/test.validation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/tips.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup-renamed/upgrade.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +82,31 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ost-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/ost-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="161" column="2" lean-forward="false" selection-start-line="161" selection-start-column="2" selection-end-line="161" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="class.mailer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/class.mailer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="572" column="0" lean-forward="false" selection-start-line="572" selection-start-column="0" selection-end-line="572" selection-end-column="0" />
+              <folding>
+                <marker date="1485263905875" expanded="false" signature="16517:16529" ph="..." />
+                <marker date="1485263905875" expanded="true" signature="16530:16577" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +115,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/include/class.i18n.php" />
+        <option value="$PROJECT_DIR$/include/ost-config.php" />
       </list>
     </option>
   </component>
@@ -40,10 +130,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="y" value="21" />
-    <option name="width" value="1920" />
-    <option name="height" value="1018" />
+    <option name="x" value="2295" />
+    <option name="y" value="293" />
+    <option name="width" value="1390" />
+    <option name="height" value="923" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -60,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -73,9 +162,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="osTicketClorian" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="osTicketClorian" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,22 +233,23 @@
       <workItem from="1485248672910" duration="902000" />
       <workItem from="1485265580160" duration="304000" />
       <workItem from="1485504988240" duration="66000" />
+      <workItem from="1485508703948" duration="1706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2641000" />
+    <option name="totallyTimeSpent" value="4347000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="21" width="1920" height="1018" extended-state="6" />
-    <editor active="false" />
+    <frame x="2295" y="293" width="1390" height="923" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25179857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34318903" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3814554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -187,6 +292,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="310" column="63" lean-forward="true" selection-start-line="310" selection-start-column="63" selection-end-line="310" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/class.mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="572" column="0" lean-forward="false" selection-start-line="572" selection-start-column="0" selection-end-line="572" selection-end-column="0" />
+          <folding>
+            <marker date="1485263905875" expanded="false" signature="16517:16529" ph="..." />
+            <marker date="1485263905875" expanded="true" signature="16530:16577" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ost-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="161" column="2" lean-forward="false" selection-start-line="161" selection-start-column="2" selection-end-line="161" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
